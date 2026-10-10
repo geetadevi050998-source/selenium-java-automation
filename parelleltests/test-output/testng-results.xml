@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-18T22:08:08 IST" name="Default suite" finished-at="2025-07-18T22:08:08 IST" duration-ms="254">
+    <groups>
+    </groups>
+    <test started-at="2025-07-18T22:08:08 IST" name="Default test" finished-at="2025-07-18T22:08:08 IST" duration-ms="254">
+      <class name="invocationsample.Invocationsample">
+        <test-method signature="testMethod()[pri:0, instance:invocationsample.Invocationsample@7586beff]" started-at="2025-07-18T22:08:08 IST" name="testMethod" finished-at="2025-07-18T22:08:08 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method signature="testMethod()[pri:0, instance:invocationsample.Invocationsample@7586beff]" started-at="2025-07-18T22:08:08 IST" name="testMethod" finished-at="2025-07-18T22:08:08 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method signature="testMethod()[pri:0, instance:invocationsample.Invocationsample@7586beff]" started-at="2025-07-18T22:08:08 IST" name="testMethod" finished-at="2025-07-18T22:08:08 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method signature="testMethod()[pri:0, instance:invocationsample.Invocationsample@7586beff]" started-at="2025-07-18T22:08:08 IST" name="testMethod" finished-at="2025-07-18T22:08:08 IST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method signature="testMethod()[pri:0, instance:invocationsample.Invocationsample@7586beff]" started-at="2025-07-18T22:08:08 IST" name="testMethod" finished-at="2025-07-18T22:08:08 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method signature="testMethod()[pri:0, instance:invocationsample.Invocationsample@7586beff]" started-at="2025-07-18T22:08:08 IST" name="testMethod" finished-at="2025-07-18T22:08:08 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+      </class> <!-- invocationsample.Invocationsample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
